@@ -1,10 +1,8 @@
 # Ömer Yasir Küçük
 
-## Data Analyst & Big Data Enthusiast
+<h1 align="center">Hi I'm Omer!👋</h1>
 
-### 👋 Hello, I'm Ömer!
-
-I’m a passionate Data Analyst who loves turning raw data into meaningful insights. I enjoy working with data to solve real-world problems and create impactful solutions. Currently, I’m working as a **Data Analyst at Migros - Mímeda**, where I focus on analyzing customer behavior and automating reporting processes to drive data-informed strategies.
+Currently, I’m working as a **Data Analyst at Migros - Mímeda**, where I focus on analyzing customer behavior and automating reporting processes to drive data-informed strategies. Driven by a passion for cloud and data engineering technologies, I continuously explore new tools to unlock data's potential and enhance business value.
 
 ---
 
@@ -13,52 +11,19 @@ I’m a passionate Data Analyst who loves turning raw data into meaningful insig
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
 </p>
-
----
-
-### 🎓 **Education**
-
-- **M.Sc. in Big Data & Business Analytics (with Thesis)**  
-  *Istanbul Technical University*  
-  *September 2023 - Ongoing*
-
-- **B.S. in Civil Engineering**  
-  *Istanbul Technical University*  
-  *September 2013 - January 2019*
-
----
-
-### 📜 **Certificates & Courses**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity">
-  <img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp">
-  <img src="https://img.shields.io/badge/Mitul-FF6F61?style=for-the-badge&logo=mitul&logoColor=white" alt="Mitul">
-</p>
-
----
-
-### 🌟 **Volunteering Experience**
-
-- **Teaching Assistant**  
-  *Mitul Bootcamp & Data Analysis Chapter*
-
----
-
-### 📧 **Contact Me**
-
-Feel free to reach out if you’d like to collaborate or just chat about data!  
-**Email**: [omeryasirkucuk@gmail.com](mailto:omeryasirkucuk@gmail.com)  
 
 ---
 
 ### 🔗 **Connect with Me**
+
+Feel free to reach out if you’d like to collaborate or just chat about data!  
+**Email**: [omeryasirkucuk@gmail.com](mailto:omeryasirkucuk@gmail.com)  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omeryasirkucuk" target="_blank">
@@ -76,6 +41,3 @@ Feel free to reach out if you’d like to collaborate or just chat about data!
 </p>
 
 ---
-
-**"I enjoy playing with data."**  
-Let’s connect and explore how data can drive meaningful decisions! 🚀📊
