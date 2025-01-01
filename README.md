@@ -1,5 +1,3 @@
-# Ömer Yasir Küçük
-
 <h1 align="center">Hi I'm Omer!👋</h1>
 
 Currently, I’m working as a **Data Analyst at Migros - Mímeda**, where I focus on analyzing customer behavior and automating reporting processes to drive data-informed strategies. Driven by a passion for cloud and data engineering technologies, I continuously explore new tools to unlock data's potential and enhance business value.
@@ -28,9 +26,6 @@ Feel free to reach out if you’d like to collaborate or just chat about data!
 <p align="left">
   <a href="https://www.linkedin.com/in/omeryasirkucuk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/omeryasirkucuk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://omeryasirkucuk.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
