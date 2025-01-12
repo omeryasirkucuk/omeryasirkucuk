@@ -34,7 +34,7 @@ Feel free to reach out if you’d like to collaborate or just chat about data!
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://www.datacamp.com/portfolio/omeryasirkucuk" target="_blank">
-    <img src="https://www.svgrepo.com/show/349332/datacamp.svg" alt="Datacamp">
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="Datacamp">
   </a>
 </p>
 
